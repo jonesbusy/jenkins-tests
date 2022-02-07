@@ -1,8 +1,8 @@
 unclassified:
   sidebarGlobalLink:
     links:
-    - displayName: "Link1"
+    - displayName: "Link5"
       iconFileName: "static/efbf17e4/images/16x16/help.png"
       urlName: "https://www.google.com"
-    - displayName: "Link2"
+    - displayName: "Link6"
       urlName: "https://www.google.com"
